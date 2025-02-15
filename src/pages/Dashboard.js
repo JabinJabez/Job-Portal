@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ME from '../assests/Jabin Jabez.png'
+import ME from '../assests/cartoon-character-generated-by-Fotor-ai-art-creator.webp'
 
 const Dashboard = () => {
   // Sample user details
