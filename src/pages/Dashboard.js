@@ -4,8 +4,8 @@ import ME from '../assests/cartoon-character-generated-by-Fotor-ai-art-creator.w
 const Dashboard = () => {
   // Sample user details
   const user = {
-    name: "S Jabin Jabez",
-    email: "jabin@example.com",
+    name: "Full Name",
+    email: "Name@gmail.com",
     photo: ME, 
     bio: "Frontend Developer | React | Spring Boot",
   };
